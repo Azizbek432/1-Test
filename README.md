@@ -17,7 +17,6 @@ Rasmlar: Sahifaga vizual kontent qo'shish uchun <img> tegi.
 
 Bu mening birinchi it-parkdagi testim!..
 
-
 IT-Park: HTML Basics - Project 1
 This project was prepared for the first stage of the "Frontend Development" course at the IT-Park training center. The main goal of the project is to work with HTML tags and study document structure.
 

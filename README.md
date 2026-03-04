@@ -33,4 +33,4 @@ The following elements were used in this test project:
 ---
 
 ### 👨‍💻 Muallif / Author
-**[Ismingizni yozing / Your Name]** *IT-Park talabasi / IT-Park Student*
+**Azizbek Abdullayev** *IT-Park o'quvchisi / IT-Park Student*
